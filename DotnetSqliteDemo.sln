@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetSqliteDemo", "DotnetSqliteDemo\DotnetSqliteDemo.csproj", "{5731318F-F7FB-4345-9A8C-8DCDABA12376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcess", "DataAcess\DataAcess.csproj", "{E40E1AA0-7A1A-4645-BEED-96239F01759E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5731318F-F7FB-4345-9A8C-8DCDABA12376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5731318F-F7FB-4345-9A8C-8DCDABA12376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5731318F-F7FB-4345-9A8C-8DCDABA12376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5731318F-F7FB-4345-9A8C-8DCDABA12376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40E1AA0-7A1A-4645-BEED-96239F01759E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40E1AA0-7A1A-4645-BEED-96239F01759E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40E1AA0-7A1A-4645-BEED-96239F01759E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40E1AA0-7A1A-4645-BEED-96239F01759E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
